@@ -1,0 +1,3 @@
+To start mongod : sudo systemctl start mongod
+To see status of mongod : sudo systemctl status mongod
+To stop mongod : sudo systemctl stop mongod

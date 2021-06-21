@@ -1,0 +1,81 @@
+{
+    "Regions": {
+        "World": {
+            "Countries": {
+                "India": {
+                    "States": {
+                        "Gujarat": {
+                            "cities": {
+                                "Ahemedabad": {
+                                    "messages": {
+                                        "unique-message-id1": {
+                                            "message-id": "ID",
+                                            "message-content": "Hello world",
+                                            "message-date": "date",
+                                            "message-time": "time",
+                                            "messenger-ipaddress": "ip address",
+                                            "messenger-location": "location",
+                                            "message-likes": 45,
+                                            "message-replies": {
+                                                "unique-reply-id1": {
+                                                    "reply-content": "Yes i am rishi"
+                                                },
+                                                "unique-reply-id2": {
+                                                    "reply-content": "Hello World"
+                                                }
+                                            }
+                                        },
+                                        "unique-message-id2": {
+                                            "message-id": "ID",
+                                            "message-content": "Hello world",
+                                            "message-date": "date",
+                                            "message-time": "time",
+                                            "messenger-ipaddress": "ip address",
+                                            "messenger-location": "location",
+                                            "message-likes": 45,
+                                            "message-replies": {
+                                                "unique-reply-id1": {
+                                                    "reply-content": "Hello World"
+                                                },
+                                                "unique-reply-id2": {
+                                                    "reply-content": "Hello World"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Rajkot": {},
+                                "Junaghadh": {},
+                                "Nadiad": {}
+                            },
+                            "state-level": {
+
+
+                            }
+                        },
+                        "Maharastra": {
+                            "Cities": {
+                                "Mumbai": {},
+                                "Pune": {}
+                            },
+                            "state-level": {}
+                        },
+                        "Punjab": {
+                            "Cities": {
+                                "Amritsar": {},
+                                "Ludhiyana": {}
+                            },
+                            "state-level": {}
+                        }
+                    },
+                    "country-level": {
+
+
+
+                    }
+                }
+            },
+            "world-level": {}
+        }
+    }
+}

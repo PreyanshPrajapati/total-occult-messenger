@@ -1,0 +1,22 @@
+.main-div{
+    color: brown;
+    border: solid brown 2px;
+}
+
+.region-compo-div{
+    color: burlywood;
+    border: solid burlywood 2px;
+    margin: 20px;
+}
+
+.chat-compo-div{
+    color: chartreuse;
+    border: solid chartreuse 2px;
+    margin: 20px;
+}
+
+.type-msg-compo-div{
+    color: cornflowerblue;
+    border: solid cornflowerblue 2px;
+    margin: 20px;
+}
